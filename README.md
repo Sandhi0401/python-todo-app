@@ -23,3 +23,10 @@ The objective of this project is to practice programming concepts and build a si
 
 ## 👩‍💻 Author
 Sandhiya
+## Output Screenshots
+
+![Todo Output 1](todo_output_1.png)
+
+![Todo Output 2](todo_output_2.png)
+
+![Todo Final Output](todo_output_final.png)
